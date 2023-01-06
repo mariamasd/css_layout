@@ -1,0 +1,462 @@
+ /* header */
+ header h1
+{
+    font-size: 30px;
+    color: #00b39b;
+    padding-top:10px;
+    margin-left:210px;
+    /* font-family:Arial, Helvetica, sans-serif; */
+    font-family: Work Sans,Arial,sans-serif;
+    
+}
+.head
+{
+  display: flex;
+  max-width: 100%;
+  padding: 0 20px;
+  margin: 0 auto;
+  position: relative;
+  border:o,5 rgb(250, 244, 244);
+}
+.lead__logo1
+{
+width: 30px;
+
+}
+.gr
+{
+    color:rgb(160, 163, 163);
+    text-decoration: none;
+}
+* {
+    margin:0;
+    padding:0;
+    box-sizing:0;
+   font-family:Roboto,Arial,sans-serif;
+   font-family: Roboto,Arial,sans-serif;
+    color: #747474;
+  }
+   #nav
+  {
+   padding:0;
+   margin-left: 29%;
+   margin-top: 25px;
+   text-align: center;
+   justify-content: flex-end;
+   /* float: right; */
+   
+   /* margin-right: 10px;
+   padding-right: 5%;
+  margin-bottom: 15px; */
+   
+
+  }
+  #nav li
+  {
+    display: inline;
+    list-style: none;
+  }
+  #nav a
+  {
+    display: inline-block;
+    margin: 0px 10px; 
+    text-decoration: none;
+    
+  }
+  .col-6
+  {
+width: 500px;
+height: 200px;
+margin-top: 70px;
+margin-left: 50px;
+font-size: 16px;
+
+text-align:start;
+   
+  }
+  .row
+  {
+    display: flex;
+    justify-content: center;
+  }
+  .titre
+  {
+    margin-left:  210px;
+    color: rgb(36, 226, 198);
+    font-size:30px;
+    padding-top:5%;
+  }
+ 
+
+ 
+
+  
+  #color
+  {
+    color:rgb(36, 226, 198);
+  }
+  
+  .blog{
+    display: flex;
+    justify-content: center;
+  }
+  .patient{
+     height: 350px;
+     background-color: #00b39b;
+     margin-left: 15px;
+     margin: right 15px;
+     width: 300px;
+     color:white;
+    font-size: 22px;
+    border-radius:10pX;
+  }
+  .doctor
+  {
+    height: 350px;
+    background-color:rgb(75, 168, 218);
+    margin: right 15px;
+    margin-left: 25px;
+    width: 300px;
+    color:white;
+    font-size: 22px;
+    border-radius:10pX;
+  }
+  .clinic
+  {
+    height: 350px;
+    background-color: #1b1a1a;
+    margin: right 10px;
+    margin-left: 25px;
+    width: 300px;
+    color:white;
+    font-size: 22px;
+    border-radius:10pX;
+  }
+  .lead__logo
+  {
+    width: 35px;
+    display: block;
+    margin: 0% auto;
+  }
+  .titre
+  {
+    color: #00b39b;
+    font-size: 2.125rem;
+   
+    text-align: center;
+  }
+ .countri
+ {
+  color: white;
+  margin-right: 10px;
+  margin-top: 25px;
+ } 
+ .blogue
+ {
+  
+  margin-top: 50px;
+ }
+  .h4{
+    margin-left:200px;
+    font-size: 23px;
+    width: 36%;
+    float: left;
+    color: #00b39b;
+    font-weight: normal;
+    justify-content: space-between;
+  }
+  
+.blok
+{
+  background-color:#a5f9ee;
+  display:flex;
+  /* float: left; */
+  margin-top: 32px;
+}
+.colonne
+{
+  background-color:#a5f9ee;
+  display:flex;
+  /* float: left; */
+  width:62px;
+  height: 82%;
+  padding-right: 32%;
+  
+
+}
+.title
+{
+  margin-right:32px ;
+  margin-top:34px;
+
+ 
+  
+}
+.header2
+{
+  margin-top: 32px;
+  float: left;
+  margin-left: 32px;
+  margin-right: 32px;
+  width: 72%;
+  word-spacing: 1px;
+  font-weight: 100;
+}
+.header2 p
+{
+  padding-top: 32px;
+  margin-left: 22%;
+}
+.header2 h1
+{
+  margin-left: 22%;
+  font-size: 32px;
+}
+.top
+{
+margin-top: 32px;
+}
+.bottom
+{
+  margin-top: 62px;
+}
+.un
+{
+  margin-right: 12px;
+  background-color: white;
+  padding: 12px 12px 12px 12px ;
+  height: 250px;
+  width: 250px;
+  font-size: 13px;
+  text-align: center;
+  padding-top: 22px;
+  border-radius: 5px;
+}
+.un h3
+{
+font-size: 24px;
+color:#a5f9ee;
+
+}
+.deux
+{
+  margin-right: 12px;
+  background-color: white;
+  padding: 12px 12px 12px 12px ;
+  height: 250px;
+  width: 250px;
+  font-size: 13px;
+  text-align: center;
+  padding-top: 22px;
+  border-radius: 5px;
+  margin-top: 32px;
+}
+.trois
+{
+  margin-right: 12px;
+  background-color: white;
+  padding: 12px 12px 12px 12px ;
+  height: 250px;
+  width: 250px;
+  font-size: 13px;
+  text-align: center;
+  padding-top: 22px;
+  border-radius: 5px;
+  
+}
+.quatre
+{
+  margin-right: 12px;
+  background-color: white;
+  padding: 12px 12px 12px 12px ;
+  height: 250px;
+  width: 250px;
+  font-size: 13px;
+  text-align: center;
+  padding-top: 22px;
+  border-radius: 5px;
+  margin-top: 28px;
+  margin-bottom: 28px;
+}
+.deux h3
+{
+font-size: 24px;
+color:#a5f9ee;
+
+}
+.trois h3
+{
+font-size: 24px;
+color:#a5f9ee;
+
+}.quatre h3
+{
+font-size: 24px;
+color:#a5f9ee;
+}
+.haut
+{
+  display: flex;
+  justify-content: center;
+}
+image
+{
+  margin-top: 32px;
+  
+}
+.tout_im
+{
+  margin-top: 32px;
+  
+}
+.milieu
+{
+  display: flex;
+  justify-content: center;
+}
+.bas
+{
+  display: flex;
+  justify-content: center;
+}
+.one
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.two
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.three
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.four
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.five
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.six
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.seven
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.heigh
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.one
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}.nine
+{
+  margin-right: 32px;
+  margin-left: 32px;
+}
+.health
+{
+  margin-top: 32px;
+  text-align: center;
+  margin-left: 20%;
+  margin-right: 20%;
+}
+.heade h1
+{
+  font-size: 40px;
+}
+.heade p
+{
+  font-size: 14px;
+  margin-left: 25%;
+  margin-right: 25%;
+  text-align: center;
+
+}
+.foot
+{
+  text-align: center;
+  font-size: 32px;
+  margin-bottom:  62px;
+  margin-top: 82px;
+}
+.bouton
+{
+background-color: rgb(48, 48, 237);
+border-radius: 5px;
+border: 2px;
+font-style: inherit;
+color: white;
+
+}
+.foot h1
+{
+  color: rgb(35, 32, 32);
+  margin-left: 32px;
+}
+.footer
+{
+text-align:center;
+font-size: 13px;
+}
+footer a 
+{
+  text-decoration: none;
+}
+.main_footer
+{
+  margin-top: 62px;
+  margin-bottom: 32px;
+}
+.header3
+{
+  border: 1px solid rgb(184, 172, 172);
+  position: fixed;
+}
+.list
+{
+  display: flex;
+}
+.list__div
+{
+  display: flex;
+}
+.div 
+{
+  display: flex;
+}
+.list ul li
+{
+  list-style: none;
+  margin-left: 32px;
+}
+.list ul li a 
+{
+  text-decoration: none;
+}
+.logoss
+{
+  margin-left: 62px;
+}
+.list ul li a img 
+{
+width: 62px;
+color: #767373;
+}
+
+.company h2
+{
+  color: #00b39b;
+  margin-left: 62px;
+}
+.images
+{
+  margin-top: 62px;
+  margin-bottom: 62px;
+}
